@@ -1,4 +1,4 @@
-# CPE 1040 - Introduction to Computer Engineering
+# CPE 1040 - Introduction to Computer Engineering (IN PROGRESS)
 
 ## Workshop In Applied Ethics
 
