@@ -4,11 +4,29 @@ Author: Ivo Georgiev, PhD
 Last updated: 2020-04-17   
 Code: 69f615449ab490954511bbbc05e451548716cd0a   
 
-![alt text](images/dod-hack-a-vent-inno-challenge.jpeg "DoD Hack-a-Vent Innovation Challenge 2020)
+![alt text](images/dod-hack-a-vent-inno-challenge.jpeg "DoD Hack-a-Vent Innovation Challenge 2020")
+Image credit: [https://www.navsea.navy.mil/Media/Images/igphoto/2002270701/](https://www.navsea.navy.mil/Media/Images/igphoto/2002270701/)
 
-**TODO:** Structure like technical lesson-and-assignments
+This is lesson and assignment 00e for the Spring 2020 installment of the CPE 1040 - Intro to Computer Engineering course at MSU Denver.
 
-## Workshop In Applied Ethics
+## Learning how to learn
+
+The human mind is a very fine machine with amazing capabilities. And like any complex mechanism, it takes study to learn to use it effectively. This standalone section will contain practical information and advice for learning how to learn.
+
+##### Learning How to Learn 02
+
+1. Short-term memory capacity.
+
+**TODO**
+
+2. Procrastination as adiction.
+
+**TODO**
+
+
+## Lesson & Assignment 00e: Applied engineering ethics
+
+**TODO:** Divide into Study-Apply-Present sections. Make README the submission document.
 
 ### Reading
 
