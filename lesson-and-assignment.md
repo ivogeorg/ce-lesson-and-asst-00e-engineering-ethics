@@ -28,6 +28,17 @@ The human mind is a very fine machine with amazing capabilities. And like any co
 
 **TODO:** Divide into Study-Apply-Present sections. Make README the submission document.
 
+### Section 1: General ethics
+
+### Section 2: Applied ethics
+
+### Section 3: Current ethics examples
+
+### Section 4: Engineering ethics
+
+### Section 5: Codes of conduct
+
+
 ### Reading
 
 1. Center for Applied Ethics: https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/, including the following sections and/or articles: 	
