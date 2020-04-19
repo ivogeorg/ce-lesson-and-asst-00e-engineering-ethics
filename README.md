@@ -1,4 +1,10 @@
-# CPE 1040 - Introduction to Computer Engineering (IN PROGRESS)
+# CPE 1040 - Spring 2020 (IN PROGRESS)
+
+Author: Ivo Georgiev, PhD    
+Last updated: 2020-04-17   
+Code: 69f615449ab490954511bbbc05e451548716cd0a   
+
+**TODO:** Structure like technical lesson-and-assignments
 
 ## Workshop In Applied Ethics
 
