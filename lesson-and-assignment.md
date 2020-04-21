@@ -32,37 +32,57 @@ The human mind is a very fine machine with amazing capabilities. Like any comple
 
 ### Section 1: General ethics
 
-philosophy & history
+#### 1. Study
 
-Nicomachean Ethics (Aristotle) -> actually, very applied!
+The domain of ethics is vast, but its most important dimension of variation is whether it is more theoretical or more applied. The theoretical aspects of ethics are inextricable from the domain of [philosophy](https://plato.stanford.edu/). Ethics is one of the fundamental questions in philosophy, so we will only take a quick look, and not dive into it. The [applied](https://www.scu.edu/ethics/) side is more interesting to us because it gives us concrete things to do to make things better. Interestingly enough, the Aristotle's [Nichomachean Ethics](http://www.gutenberg.org/ebooks/8438), considered the foundational work in Western Ethics, is expressly applied!
+
+#### 2. Apply
+
+1. Make a search on "ethics" at the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/). You will see page upon page of results on various kinds of ethics. _What is the most generic definition of **ethics** that you can find in the encyclopedia? What are three (3) domains of ethics that are the most novel and striking to you?_
+2. Read the [Introduction](https://www.cliffsnotes.com/literature/e/ethics/about-aristotles-ethics) to Aristotle's Nicomachean Ethics. _Where does Aristotle lay the burden of responsibility for ethical behavior?_
+
+#### 3. Present
+
+In the [Study & Discussion](README.md):
+
+1. Write a paragraph each answering the two questions in 1.2.1.
+2. Write a paragraph answering the question in 1.2.2.
 
 ### Section 2: Applied ethics
 
-1. Center for Applied Ethics: https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/, including the following sections and/or articles: 	
-   - Introductory Articles
-   - Approaches to Ethical Decision Making
-   - A Framework for Ethical Decision Making
-   - Ethics in Organizations 	
-   
 #### 1. Study
+
+The two most important points I would like to you learn and understand about ethics are:
 
 1. Ethics is not about your beliefs, habits, and predilections, but about a **group's consensus on what is the right behavior** of its members that will ensure optimal operation and longevity, whatever the domain or subject matter of interest of the group. 	
 
 2. Ethics can be about everything and anything, but it **requires whole-system analysis** in every case.
 
 #### 2. Apply
-1. If all people were ethical in all their interactions, which centerpiece of modern society would be obviated?
 
-2. Ethics creates a dichotomy between the comfort of the individual and the longevity, or mere existance, of the group. Give an example of an extreme case from recent history that favored the group to the detriment of the individual. How would you embed the principle of balance of the interests of the individual and the group into the ethical code itself? Be specific.
+1. Read the following sections and/or articles at the Center for Applied Ethics: https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/: 	
+   - Introductory Articles
+   - Approaches to Ethical Decision Making
+   - A Framework for Ethical Decision Making
+   - Ethics in Organizations 	
+2. Answer the question: _If all people were ethical in all their interactions, which centerpiece of modern society would be obviated?_
+3. Ethics creates a dichotomy between the comfort of the individual and the longevity, or mere existance, of the group. Give an example of an extreme case from recent history that favored the group to the detriment of the individual. _How would you embed the principle of balance of the interests of the individual and the group into the ethical code itself?_ Be specific.
 
 #### 3. Present
 
-Discuss the two points.
-Answer the two questions.
+In the [Study & Discussion](README.md):
+
+1. Write a paragraph answering the question in 2.2.2. Defend your answer by explaining your reasoning.
+2. Discuss the topic presented in 2.2.3, and answer the question.
 	 
 ### Section 3: Current ethics examples
 
-5. Emerging Code of Ethics for Disaster Relief: https://www.nature.com/articles/d41586-019-03534-z 	
+#### 1. Study
+
+This brief section is meant to show how diverse and pervasive ethical issues are. In fact, there are - or should be! - ethical considerations just about everything around us.
+
+#### 2. Apply
+1. Skim the article [Emerging Code of Ethics for Disaster Relief](https://www.nature.com/articles/d41586-019-03534-z)
 
 COVID-19 ethics
 
