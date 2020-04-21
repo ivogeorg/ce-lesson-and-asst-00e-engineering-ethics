@@ -82,9 +82,16 @@ In the [Study & Discussion](README.md):
 This brief section is meant to show how diverse and pervasive ethical issues are. In fact, there are - or should be! - ethical considerations just about everything around us.
 
 #### 2. Apply
-1. Skim the article [Emerging Code of Ethics for Disaster Relief](https://www.nature.com/articles/d41586-019-03534-z)
 
-COVID-19 ethics
+1. Ethical considerations often arise alongside _inequal circumstances for different participants_ and _conflict among different goals or between goals and means of achieving them_. Read or skim the article [Emerging Code of Ethics for Disaster Relief](https://www.nature.com/articles/d41586-019-03534-z) and identify the _inequalities_ and _conflicts_ that arise in this domain, and how they complicate ethical behavior.
+2. The coronavirus and COVID-19 pandemic has opened up a whole tsunami of ethical issues. Pick three (3) ethical issues specifically created by the pandemic and discuss them briefly.
+
+#### 3. Present
+
+In the [Study & Discussion](README.md):
+
+1. Discuss the article in 3.2.1.
+2. Discuss the issues you picked in 3.2.2.
 
 ### Section 4: Engineering ethics
 
@@ -97,6 +104,8 @@ COVID-19 ethics
 6. Code of Conduct for the International Conference on Machine Learning (ICML): https://icml.cc/public/CodeOfConduct 	
 
 8. Principles of AI Development at Google: https://drdianehamilton.com/top-10-companies-code-of-ethics-and-conduct-2011/
+
+9. Ethical hacking
 
 ### Section 5: Codes of conduct
 
