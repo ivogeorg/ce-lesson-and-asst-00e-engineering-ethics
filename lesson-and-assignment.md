@@ -1,4 +1,4 @@
-# CPE 1040 - Spring 2020 (IN PROGRESS)
+# CPE 1040 - Spring 2020
 
 Author: Ivo Georgiev, PhD    
 Last updated: 2020-04-21   
@@ -8,6 +8,34 @@ Code: 69f615449ab490954511bbbc05e451548716cd0a
 Image credit: [https://www.navsea.navy.mil/Media/Images/igphoto/2002270701/](https://www.navsea.navy.mil/Media/Images/igphoto/2002270701/)
 
 This is lesson and assignment 00e for the Spring 2020 installment of the CPE 1040 - Intro to Computer Engineering course at MSU Denver.
+
+Table of Contents
+=================
+
+* [CPE 1040 \- Spring 2020](#cpe-1040---spring-2020)
+  * [Learning how to learn](#learning-how-to-learn)
+        * [Learning How to Learn 02](#learning-how-to-learn-02)
+  * [Lesson &amp; Assignment 00e: Applied engineering ethics](#lesson--assignment-00e-applied-engineering-ethics)
+    * [Section 1: General ethics](#section-1-general-ethics)
+      * [1\. Study](#1-study)
+      * [2\. Apply](#2-apply)
+      * [3\. Present](#3-present)
+    * [Section 2: Applied ethics](#section-2-applied-ethics)
+      * [1\. Study](#1-study-1)
+      * [2\. Apply](#2-apply-1)
+      * [3\. Present](#3-present-1)
+    * [Section 3: Current ethics examples](#section-3-current-ethics-examples)
+      * [1\. Study](#1-study-2)
+      * [2\. Apply](#2-apply-2)
+      * [3\. Present](#3-present-2)
+    * [Section 4: Engineering ethics](#section-4-engineering-ethics)
+      * [1\. Study](#1-study-3)
+      * [2\. Apply](#2-apply-3)
+      * [3\. Present](#3-present-3)
+    * [Section 5: Codes of conduct](#section-5-codes-of-conduct)
+      * [1\. Study](#1-study-4)
+      * [2\. Apply](#2-apply-4)
+      * [3\. Present](#3-present-4)
 
 ## Learning how to learn
 
