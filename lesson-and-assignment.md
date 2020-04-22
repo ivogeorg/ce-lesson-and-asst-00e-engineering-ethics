@@ -132,10 +132,8 @@ This section dives into the task of designing _ethical codes_. Peruse this [coll
    1. Come up with the _technical innovation_ at the heart of your reason to exist and your future product or service.
    2. Describe the ways your innovation, if realized, would affect society: 
       1. List at least 3 adverse effects (including but not limited to _misuse_) of the innovation, as well as some of the anticipatory actions and mechanisms you can embed in its deveopment, distribution, and operation to counteract these effects.
-      2. Give an _explicit_ definition of the fine line between the benefit and detriment of your innovation at two moments of its lifetime:   
-         - immediately upon launch; and   
-	 - after enough time for it to be absorbed into everyday life.   
-3. Your small group, co-founders and first few key employees, are the pivotal _social kernel_ that can define the proper use of your technology. You have to start early, and hold the line. _How are you going to ensure that you stay the course?_ 
+      2. Give an _explicit_ definition of the fine line between the benefit and detriment of your innovation at two moments of innovation's lifetime: (a) immediately upon launch; and (b) after enough time has passed that it has been absorbed into everyday life.   
+3. Your small group of co-founders and first few key employees are the pivotal _social kernel_ that can define the proper use of your technology. You have to start early, and hold the line. _How are you going to ensure that you stay the course?_ 
 4. Define a Code of Ethics (aka Code of Conduct) for your organization, that will safeguard your original intentions and values while not stiflying innovation as your startup grows and matures. Your code should have _at most 9 points_.
 
 #### 3. Present
