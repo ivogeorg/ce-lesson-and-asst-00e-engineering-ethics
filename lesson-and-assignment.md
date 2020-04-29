@@ -13,7 +13,7 @@ Table of Contents
 =================
 
 * [CPE 1040 \- Spring 2020](#cpe-1040---spring-2020)
-  * [Learning how to learn](#learning-how-to-learn)
+  * [Learning how to learn](#learning-how-to-learn)   
         * [Learning How to Learn 02](#learning-how-to-learn-02)
   * [Lesson &amp; Assignment 00e: Applied engineering ethics](#lesson--assignment-00e-applied-engineering-ethics)
     * [Section 1: General ethics](#section-1-general-ethics)
