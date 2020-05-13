@@ -80,11 +80,15 @@ In the [Study & Discussion](README.md):
 
 #### 1. Study
 
-The two most important points I would like to you learn and understand about ethics are:
+##### The Big Three
+
+The three most important points I would like to you learn and understand about ethics are:
 
 1. Ethics is not about your beliefs, habits, and predilections, but about a **group's consensus on what is the right behavior** of its members that will ensure optimal operation and longevity, whatever the domain or subject matter of interest of the group. 	
 
-2. Ethics can be about everything and anything, but it **requires whole-system analysis** in every case.
+2. Crucial for ethics, and thus for all relationships and society at large, is the **individual** ability of every member to prioritize rights and values **other than their own**.
+
+3. Ethics can be about everything and anything, but it **requires whole-system analysis** in every case.
 
 #### 2. Apply
 
